@@ -1,4 +1,4 @@
-package com.marlonrfjunior.seleniumjunit.core;
+package core;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -7,9 +7,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.safari.SafariDriver;
 
-
-
-import static com.marlonrfjunior.seleniumjunit.utils.Utils.getTestProperty;
+import static utils.Utils.getTestProperty;
 
 
 public class WebDriverManager {
@@ -18,7 +16,6 @@ public class WebDriverManager {
 
     /**
      * Seleciona o tipo de browser que será inicializado para o teste de acordo com a testsettings.properties.
-     *
      */
     public static void openBrowser() {
         switch (getTestProperty("browserType").toLowerCase()) {
@@ -121,7 +118,7 @@ public class WebDriverManager {
     /**
      * Fecha todos os browsers aberto e retorna a variavel driver para null
      */
-    public static void closeAllBrowser(){
+    public static void closeAllBrowser() {
         if (driver != null) {
             driver.quit();
             driver = null;

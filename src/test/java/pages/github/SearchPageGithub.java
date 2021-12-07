@@ -1,8 +1,8 @@
-package com.marlonrfjunior.seleniumjunit.pages.github;
+package pages.github;
 
 
-import com.marlonrfjunior.seleniumjunit.attributes.github.SearchAttributesGithub;
-import com.marlonrfjunior.seleniumjunit.core.WebDriverManager;
+import attributes.github.SearchAttributesGithub;
+import core.WebDriverManager;
 import org.openqa.selenium.support.PageFactory;
 
 public class SearchPageGithub extends SearchAttributesGithub {
@@ -10,7 +10,7 @@ public class SearchPageGithub extends SearchAttributesGithub {
         PageFactory.initElements(WebDriverManager.getDriver(), this);
     }
 
-    public void searchOnGithub(String optionSearch, String  value) {
+    public void searchOnGithub(String optionSearch, String value) {
         click(selectTypeResult(optionSearch));
         click(selectProfileResult(value));
     }

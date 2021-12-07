@@ -1,12 +1,12 @@
-package com.marlonrfjunior.seleniumjunit.pages.linkedin;
+package pages.linkedin;
 
-import com.marlonrfjunior.seleniumjunit.attributes.linkedin.SearchAttributesLinkedin;
-import com.marlonrfjunior.seleniumjunit.core.WebDriverManager;
+import attributes.linkedin.SearchAttributesLinkedin;
+import core.WebDriverManager;
 import org.openqa.selenium.support.PageFactory;
 
 public class SearchPageLinkedin extends SearchAttributesLinkedin {
     public SearchPageLinkedin() {
-        PageFactory.initElements(WebDriverManager.getDriver() , this);
+        PageFactory.initElements(WebDriverManager.getDriver(), this);
     }
 
 
@@ -17,8 +17,8 @@ public class SearchPageLinkedin extends SearchAttributesLinkedin {
         click(btnSearchPerfil);
     }
 
-    public  void selectPerfil(String title, String name){
+    public void selectPerfil(String title, String name) {
         fixedWait(3);
-        click(cardPefil(title,name));
+        click(cardPefil(title, name));
     }
 }

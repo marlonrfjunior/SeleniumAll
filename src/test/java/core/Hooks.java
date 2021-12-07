@@ -1,16 +1,14 @@
-package com.marlonrfjunior.seleniumjunit.core;
+package core;
 
 
-import com.marlonrfjunior.seleniumjunit.utils.Utils;
+import utils.Utils;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;
-import org.junit.BeforeClass;
 import org.junit.rules.TestWatcher;
 
-import java.io.File;
 
-import static com.marlonrfjunior.seleniumjunit.core.WebDriverManager.*;
+import static core.WebDriverManager.*;
 
 public class Hooks extends TestWatcher {
 
@@ -27,7 +25,7 @@ public class Hooks extends TestWatcher {
     }
 
     @After
-    public void afterScenario()  {
+    public void afterScenario() {
         if (scenario.isFailed()) {
             if (getDriver() != null) {
                 Throwable throwable = Utils.logError(scenario);

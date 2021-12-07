@@ -1,4 +1,4 @@
-package com.marlonrfjunior.seleniumjunit.utils;
+package utils;
 
 import io.cucumber.java.Scenario;
 

@@ -1,4 +1,4 @@
-package com.marlonrfjunior.seleniumjunit.core;
+package core;
 
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.*;
@@ -11,7 +11,7 @@ import java.time.Duration;
 import java.util.concurrent.TimeUnit;
 import java.util.logging.Logger;
 
-import static com.marlonrfjunior.seleniumjunit.core.WebDriverManager.getDriver;
+import static core.WebDriverManager.getDriver;
 
 public class DSL {
 
@@ -35,7 +35,7 @@ public class DSL {
     protected static void getScreenshot(WebElement webElement) {
 
         String fileName = "target" + File.separator + "report" + File.separator + "Screenshoots" +
-                File.separator +Hooks.scenario.getName() + "-" + numArquivos + "_" + "_ScrShot";
+                File.separator + Hooks.scenario.getName() + "-" + numArquivos + "_" + "_ScrShot";
         try {
             TakesScreenshot ss = (TakesScreenshot) getDriver();
             File screenshotAs = ss.getScreenshotAs(OutputType.FILE);
@@ -192,7 +192,6 @@ public class DSL {
             getDriver().manage().timeouts().implicitlyWait(0, TimeUnit.SECONDS);
         }
     }
-
 
 
 }

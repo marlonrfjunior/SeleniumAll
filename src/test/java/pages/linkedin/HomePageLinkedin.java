@@ -1,8 +1,8 @@
-package com.marlonrfjunior.seleniumjunit.pages.linkedin;
+package pages.linkedin;
 
 
-import com.marlonrfjunior.seleniumjunit.attributes.linkedin.HomeAttributesLinkedin;
-import com.marlonrfjunior.seleniumjunit.core.WebDriverManager;
+import attributes.linkedin.HomeAttributesLinkedin;
+import core.WebDriverManager;
 import org.openqa.selenium.support.PageFactory;
 
 public class HomePageLinkedin extends HomeAttributesLinkedin {

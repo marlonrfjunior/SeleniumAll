@@ -1,6 +1,6 @@
-package com.marlonrfjunior.seleniumjunit.steps.linkedin;
+package steps.linkedin;
 
-import com.marlonrfjunior.seleniumjunit.pages.linkedin.HomePageLinkedin;
+import pages.linkedin.HomePageLinkedin;
 import io.cucumber.java.pt.E;
 
 

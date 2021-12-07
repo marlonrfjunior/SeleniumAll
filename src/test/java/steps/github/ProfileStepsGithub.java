@@ -1,6 +1,6 @@
-package com.marlonrfjunior.seleniumjunit.steps.github;
+package steps.github;
 
-import com.marlonrfjunior.seleniumjunit.pages.github.ProfilePageGithub;
+import pages.github.ProfilePageGithub;
 import io.cucumber.java.pt.Então;
 
 

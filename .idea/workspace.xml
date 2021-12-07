@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6563c25a-66d7-4b01-bc9c-bbd88b63b7a4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_create_meta_6_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_core_7_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_expressions_13_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_gherkin_7_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_gherkin_messages_7_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_java_7_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_junit_7_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_picocontainer_7_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_plugin_7_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_datatable_7_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_docstring_7_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_html_formatter_17_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_messages_17_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_tag_expressions_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_bonigarcia_webdrivermanager_4_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_client5_httpclient5_5_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_core5_httpcore5_5_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_core5_httpcore5_h2_5_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_picocontainer_picocontainer_2_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_rauschig_jarchivelib_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumAll.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumAll.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/attributes/github/HomeAttributesGithub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/attributes/github/HomeAttributesGithub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/attributes/github/ProfileAttributesGithub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/attributes/github/ProfileAttributesGithub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/attributes/github/SearchAttributesGithub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/attributes/github/SearchAttributesGithub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/attributes/linkedin/HomeAttributesLinkedin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/attributes/linkedin/HomeAttributesLinkedin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/attributes/linkedin/ResumeAttributesLinkedin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/attributes/linkedin/ResumeAttributesLinkedin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/attributes/linkedin/SearchAttributesLinkedin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/attributes/linkedin/SearchAttributesLinkedin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/core/DSL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/core/DSL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/core/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/core/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/core/WebDriverManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/core/WebDriverManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/github/HomePageGithub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/github/HomePageGithub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/github/ProfilePageGithub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/github/ProfilePageGithub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/github/SearchPageGithub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/github/SearchPageGithub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/linkedin/HomePageLinkedin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/linkedin/HomePageLinkedin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/linkedin/ResumePageLinkedin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/linkedin/ResumePageLinkedin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/linkedin/SearchPageLinkedin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/linkedin/SearchPageLinkedin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runner/CucumberTestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runner/CucumberTestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steps/LoadStepSystems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/LoadStepSystems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steps/github/HomeStepsGithub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/github/HomeStepsGithub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steps/github/ProfileStepsGithub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/github/ProfileStepsGithub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steps/linkedin/HomeStepsLinkedin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/linkedin/HomeStepsLinkedin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steps/linkedin/ResumeStepsLinkedin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/linkedin/ResumeStepsLinkedin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steps/linkedin/SearchStepsLinkedin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/linkedin/SearchStepsLinkedin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utils/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/automationTest.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/automationTest.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/testsettings.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/testsettings.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report/Screenshoots/Verificar Profile gitHub-0__ScrShot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report/Screenshoots/Verificar Profile gitHub-1__ScrShot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report/Screenshoots/Verificar Profile gitHub-2__ScrShot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report/Screenshoots/Verificar Profile gitHub-3__ScrShot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report/Screenshoots/Verificar Profile gitHub-4__ScrShot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report/Screenshoots/Verificar Profile gitHub-5__ScrShot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report/Screenshoots/Verificar Profile gitHub-6__ScrShot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report/Screenshoots/Verificar Profile gitHub-7__ScrShot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report/cucumber-reports/Cucumber.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report/cucumber-reports/cucumber.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report/cucumber-reports/cucumber.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/marlonrfjunior/seleniumjunit/attributes/github/HomeAttributesGithub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/marlonrfjunior/seleniumjunit/attributes/github/ProfileAttributesGithub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/marlonrfjunior/seleniumjunit/attributes/github/SearchAttributesGithub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/marlonrfjunior/seleniumjunit/attributes/linkedin/HomeAttributesLinkedin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/marlonrfjunior/seleniumjunit/attributes/linkedin/ResumeAttributesLinkedin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/marlonrfjunior/seleniumjunit/attributes/linkedin/SearchAttributesLinkedin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/marlonrfjunior/seleniumjunit/core/DSL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/marlonrfjunior/seleniumjunit/core/Hooks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/marlonrfjunior/seleniumjunit/core/WebDriverManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/marlonrfjunior/seleniumjunit/pages/github/HomePageGithub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/marlonrfjunior/seleniumjunit/pages/github/ProfilePageGithub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/marlonrfjunior/seleniumjunit/pages/github/SearchPageGithub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/marlonrfjunior/seleniumjunit/pages/linkedin/HomePageLinkedin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/marlonrfjunior/seleniumjunit/pages/linkedin/ResumePageLinkedin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/marlonrfjunior/seleniumjunit/pages/linkedin/SearchPageLinkedin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/marlonrfjunior/seleniumjunit/runner/CucumberTestRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/marlonrfjunior/seleniumjunit/steps/LoadStepSystems.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/marlonrfjunior/seleniumjunit/steps/github/HomeStepsGithub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/marlonrfjunior/seleniumjunit/steps/github/ProfileStepsGithub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/marlonrfjunior/seleniumjunit/steps/linkedin/HomeStepsLinkedin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/marlonrfjunior/seleniumjunit/steps/linkedin/ResumeStepsLinkedin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/marlonrfjunior/seleniumjunit/steps/linkedin/SearchStepsLinkedin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/marlonrfjunior/seleniumjunit/utils/Utils$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/marlonrfjunior/seleniumjunit/utils/Utils$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/marlonrfjunior/seleniumjunit/utils/Utils$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/marlonrfjunior/seleniumjunit/utils/Utils$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/marlonrfjunior/seleniumjunit/utils/Utils$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/marlonrfjunior/seleniumjunit/utils/Utils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cucumber.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/automationTest.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/select-environment.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testsettings.properties" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="21wK11TN2G4emICB2QbGFB89w9B" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java" />
+      <recent name="$PROJECT_DIR$/src/test" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CucumberTestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAll" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.CucumberTestRunner" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CucumberTestRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6563c25a-66d7-4b01-bc9c-bbd88b63b7a4" name="Changes" comment="" />
+      <created>1638846491104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638846491104</updated>
+      <workItem from="1638846501897" duration="832000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,6 +1,6 @@
-package com.marlonrfjunior.seleniumjunit.attributes.github;
+package attributes.github;
 
-import com.marlonrfjunior.seleniumjunit.core.DSL;
+import core.DSL;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
@@ -8,17 +8,16 @@ import org.openqa.selenium.support.FindBy;
 public class ProfileAttributesGithub extends DSL {
 
     @FindBy(xpath = "//span[@itemprop=\"name\"]")
-    protected WebElement  labelname;
+    protected WebElement labelname;
 
     @FindBy(xpath = "//span[@itemprop=\"additionalName\"]")
-    protected WebElement  labelAdditionalName;
+    protected WebElement labelAdditionalName;
 
     @FindBy(xpath = "//li[@itemprop=\"worksFor\"]")
-    protected WebElement  labelWorks;
+    protected WebElement labelWorks;
 
     @FindBy(xpath = "//li[@itemprop=\"homeLocation\"]")
-    protected WebElement  labelLocation;
-
+    protected WebElement labelLocation;
 
 
 }

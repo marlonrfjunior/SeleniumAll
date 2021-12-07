@@ -1,6 +1,6 @@
-package com.marlonrfjunior.seleniumjunit.attributes.linkedin;
+package attributes.linkedin;
 
-import com.marlonrfjunior.seleniumjunit.core.DSL;
+import core.DSL;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
