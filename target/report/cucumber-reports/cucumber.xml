@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="13.684">
+<testcase classname="Validar Perfil nas plataformas" name="Verificar Profile gitHub" time="12.595">
+<system-out><![CDATA[Dado que acessei o site do GitHub...........................................passed
+Quando pesquiso o "Users" com nome "marlonrfjunior".........................passed
+Então verifico a pagina do Usuário..........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
